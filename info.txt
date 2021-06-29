@@ -1,0 +1,1 @@
+This is a project which is being done to help me understand Git.
